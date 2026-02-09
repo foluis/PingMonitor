@@ -1,5 +1,10 @@
 # PingMonitor.ps1 Guide
 
+## Repository
+
+Source code and updates:
+- https://github.com/foluis/PingMonitor
+
 ## Read this document (Markdown viewer)
 
 You can open this file with any Markdown editor you already use, for example:
